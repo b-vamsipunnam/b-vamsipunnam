@@ -52,7 +52,5 @@ I'm happy to exchange ideas about Salesforce automation, Robot Framework, and op
 
 ---
 
-![GitHub profile views](https://komarev.com/ghpvc/?username=b-vamsipunnam&label=Profile%20views&color=0e7490&style=flat)
-
-<!-- Third-party counter by Komarev. Counts badge loads, not unique people or historical profile traffic. -->
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=b-vamsipunnam.b-vamsipunnam)
 
