@@ -20,7 +20,7 @@ Helps Salesforce administrators and migration teams inventory accessible objects
 
 [Getting started](https://github.com/b-vamsipunnam/salesforce-objects-scanner-tool/blob/main/docs/installation.md)
 
-- ## Contributions to SeleniumLibrary
+## Contributions to SeleniumLibrary
 
 I've contributed four merged pull requests to SeleniumLibrary, adding new keywords and improving test coverage and reliability.
 
@@ -41,6 +41,8 @@ IEEE Cloud Summit 2026
 
 My paper examines the design, scalability, and performance of parallel Salesforce file extraction on a single machine.
 
+I also serve as a peer reviewer for IEEE Access, with a completed review in November 2026.
+
 ## Core stack
 
 Python · Java · Robot Framework · SeleniumLibrary · Pabot · Salesforce APIs · SOQL · Salesforce CLI
@@ -50,6 +52,7 @@ Python · Java · Robot Framework · SeleniumLibrary · Pabot · Salesforce APIs
 - IEEE Senior Member
 - As a Robot Framework Ambassador, I share practical automation experience through open-source tools and community talks.
 - Presented **Salesforce Application Automation with CumulusCI and Robot Framework Integration** at the Robot Framework Americas meetup in April 2026.
+- Served on the November 2026 IEEE Senior Member application review panel, reviewing eight applications.
 
 ## Connect
 
