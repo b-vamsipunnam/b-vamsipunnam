@@ -20,12 +20,19 @@ Helps Salesforce administrators and migration teams inventory accessible objects
 
 [Getting started](https://github.com/b-vamsipunnam/salesforce-objects-scanner-tool/blob/main/docs/installation.md)
 
-## Contributions to SeleniumLibrary
+- ## Contributions to SeleniumLibrary
 
-I contributed two keywords included in [SeleniumLibrary 6.9.0](https://github.com/robotframework/SeleniumLibrary/releases/tag/v6.9.0):
+I've contributed four merged pull requests to SeleniumLibrary, adding new keywords and improving test coverage and reliability.
 
-- [**Get CSS Property Value**](https://github.com/robotframework/SeleniumLibrary/pull/1969): retrieves browser-computed CSS values from an element.
-- [**Drag And Drop Across Frames**](https://github.com/robotframework/SeleniumLibrary/pull/1953): adds drag-and-drop support across frame contexts.
+**Keywords released in [SeleniumLibrary 6.9.0](https://github.com/robotframework/SeleniumLibrary/releases/tag/v6.9.0):**
+
+- [**Get CSS Property Value**](https://github.com/robotframework/SeleniumLibrary/pull/1969): retrieves an element's browser-computed CSS property value.
+- [**Drag And Drop Across Frames**](https://github.com/robotframework/SeleniumLibrary/pull/1953): supports drag-and-drop operations across frame contexts.
+
+**Bug fixes and regression tests:**
+
+- [**Table footer matching**](https://github.com/robotframework/SeleniumLibrary/pull/2000): updated `Table Footer Should Contain` to recognize both `<th>` and `<td>` footer cells, with regression tests to verify matching stays within the intended footer.
+- [**Cross-frame drag-and-drop tests**](https://github.com/robotframework/SeleniumLibrary/pull/2001): resolved headless Chrome test failures by configuring the browser viewport and restoring the original window size after each test.
 
 ## Research
 
