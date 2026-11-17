@@ -45,10 +45,10 @@ Python · Java · Robot Framework · SeleniumLibrary · Pabot · Salesforce APIs
 
 ## Community
 
-- IEEE Senior Member.
-- Presented **Salesforce Application Automation with CumulusCI and Robot Framework Integration** at the Robot Framework Americas meetup in April 2026.
-- Reviewed eight applications as part of the November 2026 IEEE Senior Member application review panel.
-- Completed a peer review for IEEE Access in November 2026.
+- **IEEE Senior Member.**
+- **Community speaker:** Presented *Salesforce Application Automation with CumulusCI and Robot Framework Integration* at the Robot Framework Americas meetup in April 2026.
+- **IEEE panel reviewer:** Reviewed eight Senior Member applications during the November 2026 application review panel.
+- **IEEE Access peer reviewer:** Completed a manuscript review in November 2026.
 
 ## Connect
 
