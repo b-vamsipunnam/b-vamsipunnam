@@ -10,9 +10,7 @@ I'm Bhimeswara Vamsi Punnam. I build open-source tools for Salesforce file extra
 
 Helps Salesforce developers and migration teams extract files to local storage. It combines API metadata with authenticated browser downloads, parallel batch processing, and bounded retries.
 
-A recorded benchmark of **10,000 files, approximately 6.4 GB**, took 240 minutes with one worker and 31 minutes with eight workers, a **7.74× speedup**.
-
-[Getting started](https://github.com/b-vamsipunnam/salesforce-files-downloader-tool/blob/main/docs/Installation.md) · [Benchmark details and limitations](https://github.com/b-vamsipunnam/salesforce-files-downloader-tool/blob/main/docs/Performance.md)
+[Getting started](https://github.com/b-vamsipunnam/salesforce-files-downloader-tool/blob/main/docs/Installation.md)
 
 ### [Salesforce Objects Scanner](https://github.com/b-vamsipunnam/salesforce-objects-scanner-tool)
 
